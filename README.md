@@ -1,7 +1,7 @@
-- 👋 Hi, 你好, Hola, Salut, Ciao, I’m @AilaLu
+- 👋 Hi, 你好, Hola, Salut, Ciao, Salam, I’m @AilaLu
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web scraping tools to find prospects
+- 🌱 I’m currently learning python and JavaScript
+- 💞️ I’m looking forward to revolutionize logistics systems/platforms
 
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, 你好, Hola, Salut, Ciao, Salam, I’m @AilaLu
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning python and JavaScript
+- 🌱 I’m currently learning python and JavaScript and Kotlin
 - 💞️ I’m looking forward to revolutionize logistics systems/platforms
 
 

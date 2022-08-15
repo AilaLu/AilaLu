@@ -1,6 +1,6 @@
 - 👋 Hello, 你好, Hola, Salut, Ciao, Salam, I’m @AilaLu
 - 👀 Passionate learner in languages and programming languages
-- 🌱 Javascript, python, Ruby
+- 🌱 Javascript, Ruby on Rails,  Python
 - 💞️ I’m looking forward to revolutionize logistics systems/platforms
 
 
